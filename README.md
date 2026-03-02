@@ -1,16 +1,21 @@
-## Hi there 👋
+# Gourav | Backend & Security Engineer
 
-<!--
-**Mr-Gj-575/Mr-Gj-575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design backend systems with a security-first mindset.  
+Currently focused on building secure APIs, log analysis tools, and data-driven applications.
 
-Here are some ideas to get you started:
+## 🔐 Security Focus
+- Authentication & Authorization
+- Secure API Design
+- Log Analysis
+- Network Security Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Backend
+- Python (Flask)
+- Node.js (Express)
+- REST APIs
+- MongoDB / MySQL
+
+## 📊 Data
+- Pandas
+- Data Visualization
+- Sentiment Analysis
