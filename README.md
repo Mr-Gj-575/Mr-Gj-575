@@ -1,4 +1,4 @@
-# Gourav | Backend & Security Engineer
+# Gourav J | Backend & Security Engineer
 
 I design backend systems with a security-first mindset.  
 Currently focused on building secure APIs, log analysis tools, and data-driven applications.
